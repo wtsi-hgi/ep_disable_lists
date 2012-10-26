@@ -1,0 +1,20 @@
+{
+  "name": "ep_disable_lists",
+  "description": "Disables list/indentation controls in etherpad-lite.",
+  "homepage": "https://github.com/wtsi-hgi/ep_disable_lists",
+  "version": "0.0.2",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "main": "static/js/disable_lists.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtsi-hgi/ep_disable_lists.git"
+  },
+  "author": "Joshua C. Randall <jcrandall@alum.mit.edu>",
+  "license": "GPLv3"
+}
